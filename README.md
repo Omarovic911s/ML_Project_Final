@@ -22,3 +22,12 @@ Check your Python version: Before you start, ensure that Python is available fro
 Check pip availability: You also need to make sure you have pip available. You can check this by running python3 -m pip --version in your terminal.
 
 Install a package: To install the latest version of a module and its dependencies from the Python Package Index.
+
+###  Type of problem
+We are going to try to predict the average rating of each book, we are in the context of a 
+supervised problem.
+
+###  Linear Regression Model
+For this case I'm ready to build the Linear Regression Model because Linear regression models 
+are easier to adjust than models that are nonlinearly related to their parameters, and the 
+statistical properties of the resulting estimators are easier to determine.
